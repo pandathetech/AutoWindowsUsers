@@ -1,0 +1,14 @@
+#FirstName;LastName;EmployeeNumber;Department;ContractEndDate;Group
+Lara;Parker;010409;Marketing;2024-07-02;MarkSales
+Lana;Parker;182052;Finances;;Finances
+Lando;Parker;243901;Sales;;MarkSales
+Landon;Parker;307012;IT;;IT
+Logan;Parker;483456;HR;;HR
+Liam;Parker;584321;Marketing;;MarkSales
+Leo;Parker;643010;Consultant;2025-12-31;HR
+Leon;Parker;723147;Engineering;2023-07-19;Eng
+Luca;Parker;723148;Engineering;;Eng
+Lucy;Parker;813225;IT;;Admin
+Nathan;Young;858401;Engineering;2025-04-26;Eng
+Noa;Young;897395;Finances;;Finances
+Noah;Young;950000;IT;;IT
